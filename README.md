@@ -2,10 +2,10 @@
 tyk po malak li e tekst
 dsa
 
-sasa
-s
-dsa
-ds
+sasa\n
+s\n
+dsa\n
+ds\n
 ads
 ads
 ad
