@@ -13,6 +13,4 @@ else:
     final_second = float(second)
 
 sim = float(final_first + final_second)
-
-if sim != float():
-    print(float(sim))
+print(str("The result: ") + str(sim))
