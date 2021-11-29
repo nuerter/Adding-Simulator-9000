@@ -1,0 +1,5 @@
+print("Welcome to plus simulator 9000")
+first = input("first: ")
+second = input("second: ")
+sum = int(first) + int(second)
+print(sum)
